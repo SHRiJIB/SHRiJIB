@@ -48,5 +48,7 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop&show_owner=true)](https://github.com/apmondal/Ecommerce_Shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Blog_App&show_owner=true)](https://github.com/apmondal/Blog_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=kamp&show_owner=true)](https://github.com/SHRiJIB/kamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=Social&show_owner=true)](https://github.com/SHRiJIB/Social)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=Maze&show_owner=true)](https://github.com/SHRiJIB/Maze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=MovieFight&show_owner=true)](https://github.com/SHRiJIB/MovieFight)
