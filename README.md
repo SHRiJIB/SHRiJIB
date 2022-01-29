@@ -52,7 +52,3 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=kamp&show_owner=true&theme=monokai)](https://github.com/SHRiJIB/kamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=Social&show_owner=true&theme=monokai)](https://github.com/SHRiJIB/Social)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=Maze&show_owner=true&theme=monokai)](https://github.com/SHRiJIB/Maze)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHRiJIB&repo=MovieFight&show_owner=true&theme=monokai)](https://github.com/SHRiJIB/MovieFight)
