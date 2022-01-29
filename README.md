@@ -1,6 +1,6 @@
 ## Hey Shreejeeb here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">
 
-- 👨‍💻 I'm a self-taught passionate Full-stack Web Developer.
+- 👨‍💻 I'm a final year CSE student at JGEC.
 - 🔭 I’m currently working on a full stack project.
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about DSA and Javascript.
